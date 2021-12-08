@@ -1,3 +1,3 @@
 OrderedDictionary {
-	'UserObjects.package' : #SquotCypressCodeSerializer
+	'UserObjects' : #SquotTonelSerializer
 }
